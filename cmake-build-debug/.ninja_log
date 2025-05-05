@@ -1,0 +1,13 @@
+# ninja log v6
+2	1582	1746392208785308536	CMakeFiles/ImageBlur.dir/src/image_utils.cpp.o	93180a5b4a0ee8b6
+7	568	1746392411395002322	CMakeFiles/ImageBlur.dir/src/main.cpp.o	4c5b078e473f4cd5
+569	660	1746392411956367612	ImageBlur	af80d21373c59d54
+1	1590	1746392208785180832	CMakeFiles/ImageBlur.dir/src/blur.cpp.o	112c4bb20ddfdc30
+2	1592	1746392208785434199	CMakeFiles/ImageBlur.dir/src/atomic_counter.cpp.o	4a313c7ded2c5dd2
+3	694	1746452192475240298	CMakeFiles/blur_app.dir/src/main.cpp.o	99e569dadaa7b7a6
+4	718	1746452192476241260	CMakeFiles/blur_app.dir/src/atomic_counter.cpp.o	b416d0f42d5eb668
+4	734	1746452192475955062	CMakeFiles/blur_app.dir/src/blur.cpp.o	be00321114cbc8fd
+4	782	1746452192476128556	CMakeFiles/blur_app.dir/src/image_utils.cpp.o	73bb9a7bba2a7547
+782	899	1746452193254501410	blur_app	e4a19e4336885db4
+7	586	1746452352545982704	CMakeFiles/blur_app.dir/src/main.cpp.o	99e569dadaa7b7a6
+586	700	1746452353125626741	blur_app	e4a19e4336885db4
